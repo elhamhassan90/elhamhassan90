@@ -1,3 +1,131 @@
+# 👋 Hi, I’m Elham Hasan
+
+---
+
+🎯 A highly determined and skilled **DevOps Engineer** with a strong foundation in **Linux**, **Cloud**, and **Infrastructure as Code (IaC)**.  
+Graduate of the **ITI DevOps Track**, with a **Bachelor’s degree in Communication and Electronics Engineering**, and certified as **Red Hat Certified System Administrator (RHCSA)**.
+
+I’m looking for an opportunity where I can apply and grow my DevOps skills while contributing to a collaborative and forward-thinking team.
+
+---
+
+## 💫 About Me
+
+- 🌱 Currently learning and applying skills in **Cloud, Linux, and DevOps tools**
+- 📌 Passionate about automation, infrastructure, and system engineering
+- 🚀 Always exploring new technologies and real-world projects
+
+---
+
+## 💻 Skills and Tools
+
+**Cloud & OS**: AWS | Azure | Linux | Red Hat  
+**DevOps Tools**: Bash | Docker | Jenkins | Kubernetes | Terraform | Ansible | Helm  
+**Web Servers**: Apache | NGINX  
+**Monitoring**: Prometheus | Grafana  
+**Programming**: Python | Shell Scripting  
+**Others**: Git | MySQL | Active Directory | Group Policy | DNS | DHCP  
+
+---
+
+## 📂 Pinned Projects
+
+### 🌐 [Apache Web Server](https://github.com/elhamhassan90/Apache-Web-Server)
+Automated Apache Web Server setup using **Ansible** with:
+- Multiple Virtual Hosts  
+- www to non-www redirection  
+- Authentication via `.htaccess`  
+- Custom log directories per site  
+- HTML/CSS auto-deployment
+
+---
+
+### 🖥️ [Windows Server Administration (MCSA)](https://github.com/elhamhassan90/Windows-Server-Administration)
+Project based on **MCSA concepts**, including:
+- Active Directory Domain Services (AD DS)  
+- DNS & DHCP setup  
+- Group Policy Objects (GPOs)  
+- Organizational Units and Permissions  
+- Backup and security policies
+
+---
+
+### ☁️ [Terraform Final Project](https://github.com/elhamhassan90/terraform-final-project)
+Provisioned full infrastructure on **AWS using Terraform**:
+- VPC with subnets, IGW, NAT Gateway  
+- Bastion Host, Web Servers (Apache + NGINX)  
+- Load Balancers (public/private)  
+- Remote and local provisioners  
+- S3 backend for state management
+
+---
+
+### 👤 [User & Group Manager (Bash)](https://github.com/elhamhassan90/user-group-manager)
+Linux user/group management script written in **Bash**:
+- Menu interface with `whiptail`  
+- Add/delete users and groups  
+- Assign passwords and log changes  
+- Simplifies daily sysadmin tasks
+
+---
+
+### 🐍 [Python-Linux Project](https://github.com/elhamhassan90/Python-Linux-project)
+Python scripts and Linux system automation project developed during ITI training:
+- File handling  
+- System info extraction  
+- Automation and text parsing
+
+---
+
+### 🌐 [CCNA Networking Project](https://github.com/elhamhassan90/CCNA)
+Lab-level network design and configuration based on **Cisco CCNA** concepts:
+- IP addressing  
+- VLANs  
+- Static and dynamic routing  
+- Switching & packet flow diagrams
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/elham-hasan-6b029433a)  
+- 📧 elhamhassan252@gmail.com
+
+---
+
+✅ Always ready to learn, build, and grow in the DevOps journey!
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ## `Hi` , I’m Elham Hasan 👋 
 -----------------------------------------------------------------------
 A Highly determined, skilled DevOps engineer with a bachelor’s degree in communication and electronics engineering, an ITI DevOps track graduate and certified as Red Hat System Administrator (RHSCA). Aiming to find an opportunity where I can develop my skills and gain experience in the field of DevOps in a well-establish company where my skills and knowledge can be utilized and developed and can add value to the company.
@@ -75,3 +203,17 @@ A Highly determined, skilled DevOps engineer with a bachelor’s degree in commu
 <a href="mailto:elhamhassan252@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> 
 </p>
 <hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
