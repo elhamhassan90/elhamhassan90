@@ -138,7 +138,7 @@ Lab-level network design and configuration based on **Cisco CCNA** concepts:
 
 ### 📫 How to reach me:
 <p align="left">
-<a href="www.linkedin.com/in/elham-hasan-6b029433a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn-Elham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elham-hasan-6b029433a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn-Elham" height="30" width="40" /></a>
 <a href="mailto:elhamhassan252@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> 
 </p>
 <hr>
