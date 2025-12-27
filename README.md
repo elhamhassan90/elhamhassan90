@@ -80,7 +80,7 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 
 ## 📂 Pinned Projects
 
-# 📊 Enterprise-Level Monitoring Project
+### 📊 [Enterprise-Level Monitoring Project](https://github.com/elhamhassan90/Enterprise-Level-Monitoring-Project)
 
 An enterprise-level monitoring solution using **Prometheus** and **Grafana**, fully integrated with **Active Directory** and automated via **Ansible**:
 
