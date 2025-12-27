@@ -80,6 +80,18 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 
 ## 📂 Pinned Projects
 
+# 📊 Enterprise-Level Monitoring Project
+
+An enterprise-level monitoring solution using **Prometheus** and **Grafana**, fully integrated with **Active Directory** and automated via **Ansible**:
+
+- **Monitors** both Linux and Windows servers in an offline environment  
+- **Collects CPU, memory, and storage metrics** and visualizes them in dashboards  
+- **Sends alerts via an internal SMTP server** to ensure notifications in an offline domain  
+- **Uses Ansible playbooks** for automated installation and configuration  
+- **Includes dashboards and tables** for reporting system metrics across all servers
+
+---
+
 ### 🌐 [Apache Web Server](https://github.com/elhamhassan90/Apache-Web-Server)
 Automated Apache Web Server setup using **Ansible** with:
 - Multiple Virtual Hosts  
