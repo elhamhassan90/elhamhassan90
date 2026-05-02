@@ -80,26 +80,26 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 ## 📂 Pinned Projects
 ## 💻 Skills and Tools:
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/></td>
+<table style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+<tr style="border: none;">
+<td style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+<td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/></td>
 </tr>
 </table>
 
