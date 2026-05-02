@@ -80,27 +80,28 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 ## 📂 Pinned Projects
 ## 💻 Skills and Tools:
 
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-<a href="https://www.redhat.com" target="_blank" rel="noreferrer" title="RedHat"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RedHat" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title="Jenkins"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer" title="Terraform"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>
-<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer" title="Apache"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="Nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer" title="Prometheus"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer" title="Grafana"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
-<a href="https://helm.sh" target="_blank" rel="noreferrer" title="Helm"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer" title="Ansible"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/></a>
-</p>
-## 📂 Pinned Projects
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/></td>
+</tr>
+</table>
 
 ### 📊 [Enterprise-Level Monitoring Project](https://github.com/elhamhassan90/Enterprise-Level-Monitoring-Project)
 
