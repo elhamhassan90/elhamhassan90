@@ -80,7 +80,7 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 ## 📂 Pinned Projects
 ## 💻 Skills and Tools:
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></td>
