@@ -45,6 +45,8 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 <a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://img.icons8.com/color/48/microsoft-exchange.png" width="40"/></a>
 <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services" title="Active Directory"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/></a>
 <a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/></a>
+<a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://cdn.simpleicons.org/microsoftexchange" width="40"/></a>
+<img src="https://cdn.simpleicons.org/microsoftexchange/0078D4" width="40"/>
 </p>
 
 ## 📂 Pinned Projects
