@@ -102,7 +102,29 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 <td style="border: none; padding: 0;"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/></td>
 </tr>
 </table>
+## OK
+## 💻 Skills and Tools:
 
+<p align="left">
+<a href="https://aws.amazon.com" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+<a href="https://azure.microsoft.com" title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
+<a href="https://www.linux.org" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+<a href="https://www.redhat.com" title="RedHat"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
+<a href="https://www.docker.com" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<a href="https://kubernetes.io" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
+<a href="https://www.jenkins.io" title="Jenkins"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a>
+<a href="https://www.terraform.io" title="Terraform"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></a>
+<a href="https://httpd.apache.org" title="Apache"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/></a>
+<a href="https://www.nginx.com" title="Nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></a>
+<a href="https://git-scm.com" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://prometheus.io" title="Prometheus"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/></a>
+<a href="https://grafana.com" title="Grafana"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></a>
+<a href="https://helm.sh" title="Helm"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40"/></a>
+<a href="https://www.mysql.com" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.ansible.com" title="Ansible"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/></a>
+</p>
 ### 📊 [Enterprise-Level Monitoring Project](https://github.com/elhamhassan90/Enterprise-Level-Monitoring-Project)
 
 An enterprise-level monitoring solution using **Prometheus** and **Grafana**, fully integrated with **Active Directory** and automated via **Ansible**:
