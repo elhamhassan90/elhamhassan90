@@ -46,8 +46,8 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services" title="Active Directory"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/></a>
 <a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/></a>
 
-<a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexchange.svg" width="40"/></a>
-<a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services" title="Active Directory"><img src="https://cdn.simpleicons.org/microsoft" width="40"/></a>
+<a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexchange.svg" width="40"/></a>
+<a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services" title="Active Directory"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoft.svg" width="40"/></a>
 </p>
 
 ## 📂 Pinned Projects
