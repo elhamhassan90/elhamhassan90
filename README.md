@@ -42,10 +42,13 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 <a href="https://www.ansible.com" title="Ansible"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/></a>
 <a href="https://www.microsoft.com/en-us/windows-server/active-directory" title="Active Directory"><img src="https://img.icons8.com/color/48/active-directory.png" width="40"/></a>
 <a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://img.icons8.com/color/48/microsoft-exchange.png" width="40"/></a>
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Exchange%20Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
----
 
 ## 📂 Pinned Projects
+---
+
 ### 📊 [Enterprise-Level Monitoring Project](https://github.com/elhamhassan90/Enterprise-Level-Monitoring-Project)
 
 An enterprise-level monitoring solution using **Prometheus** and **Grafana**, fully integrated with **Active Directory** and automated via **Ansible**:
